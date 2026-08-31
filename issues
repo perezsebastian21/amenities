@@ -1,6 +1,19 @@
 Documento de observaciones/probelmas
 ------------------------------------------------------------------
-Seba
+Julian
 https://proyectobaseamenities.vercel.app/dashboard/consorcios
 barra inferior tapa botones de forms modales
+------------------------------------------------------------------
+Julian
+https://proyectobaseamenities.vercel.app/dashboard/consorcios/1
+Mejora: Al querer Editar un Edificio Mirador del Porque SeaView, desde Botón Editar me lleva a la lista de Eficios de ese Consorcio y no a la edición puntual de ese Edificio
+------------------------------------------------------------------
+Julian
+https://proyectobaseamenities.vercel.app/dashboard/amenities
+Issue: Al querer visualizar los Amenities de un determinado Edificio me lleva una vista general de Amenities vinculados con ese Consorcio, pero de los 3 Amenities dados de alta hasta el momento hay un tercero asignado a Edificio Mirador del Porque SeaView, con el nombre 'SUM Quincho' que no se visualiza ni se puede volver a dar de alta. Dá Error API. Dí de alta 3 amenities más desde esa pantalla, preseleccionando a que Edificio se correspondería, con otros nombres, y no arroja error pero no se visualizan.
+------------------------------------------------------------------
+Julian
+https://proyectobaseamenities.vercel.app/dashboard/amenities
+https://proyectobaseamenities.vercel.app/dashboard/amenity-config
+Issue: Al querer Configurar Reglas de un determinado Amenities, lleva a la página de amenity-config pero no posicionado sobre el que seleccioné para configurar.
 ------------------------------------------------------------------
